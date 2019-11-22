@@ -1,3 +1,5 @@
+package exercise01;
+
 import java.util.Scanner;
 
 public class SayingHello {
