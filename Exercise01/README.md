@@ -1,0 +1,14 @@
+Saying Hello
+
+The "Hello, World" program is the first program you learn
+to write in many lanuages, but it doesn't involve any input.
+
+So create a program that propmpts for your name and prints
+a freeting using your name.
+
+EXAMPLE OUTPUT
+-What is your name? Brian
+-Hello, Brian, nice to meet you !
+
+CONSTRAINT
+-Keep the input, string concatenation, and output separate.
