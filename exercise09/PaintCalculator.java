@@ -17,7 +17,7 @@ public class PaintCalculator {
         scan.close();
 
         area = length * width;
-        tinsOfPaint = (int)Math.ceil( (area * 1.0) / CONVERSION_RATE );
+        tinsOfPaint = (int)Math.ceil( ((double)area) / CONVERSION_RATE );
 
         output = String.format("\nYou will need to puchase %d gallons of paint to cover %d square feet.",
             tinsOfPaint, area);
