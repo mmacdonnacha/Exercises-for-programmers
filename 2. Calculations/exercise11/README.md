@@ -10,7 +10,7 @@ euros you have and prompt for the current exchange rate \
 of the euro. Print out the new amount in U.S. dollars. \
 The formula for currency conversion is
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=amount_%7Bto%7D%20%3D%20%20%5Cfrac%7B%20amount_%7Bfrom%7D%20x%20%20rate_%7Bfrom%7D%20%7D%7B%20rate_%7Bto%7D%20%7D%20%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=amount_%7Bto%7D%20%3D%20%20%5Cfrac%7Bamount_%7Bfrom%7D%20%2A%20rate_%7Bfrom%7D%7D%7Brate_%7Bto%7D%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 where
 - <i>Amount to</i> is the amount in U.S. dollars.
@@ -23,6 +23,6 @@ where
 What is the exchange rate? 137.51 \
 81 euros at an exchange rate of 137.51 is 111.38 U.S. dollars.</i>
 
-<b>CONSTRAINTS</b> \
+<b>CONSTRAINTS</b> 
 - Ensure that fractions of a cent are rounded up to the next penny.
 - Use a single output statement.
