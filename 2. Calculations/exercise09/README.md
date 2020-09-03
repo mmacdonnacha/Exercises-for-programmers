@@ -1,4 +1,4 @@
-Paint Calculator
+# Paint Calculator
 
 Sometimes you have to round up to the next number rather
 than follow standard rounding rules.

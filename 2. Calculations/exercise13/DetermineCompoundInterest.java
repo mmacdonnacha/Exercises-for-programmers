@@ -1,5 +1,3 @@
-package exercise13;
-
 import java.util.Scanner;
 
 public class DetermineCompoundInterest {
@@ -12,7 +10,7 @@ public class DetermineCompoundInterest {
         principal = scanner.nextInt();
 
         System.out.print("What is the rate? ");
-        rate = scanner.nextDouble() / 100;
+        rate = scanner.nextDouble();
 
         System.out.print("What is the number of years? ");
         time = scanner.nextInt();
@@ -23,10 +21,10 @@ public class DetermineCompoundInterest {
         scanner.close();
 
 
-        amount = principal * Math.pow((1 + (rate / compound)), (compound * time));
+        amount = principal * Math.pow((1 + ((rate/100) / compound)), (compound * time));
 
 
-        System.out.printf("€%d invested at %.2f for %d years compounded %d times per year is €%.2f",
+        System.out.printf("€%d invested at %.2f%% for %d years compounded %d times per year is €%.2f\n",
             principal, rate, time, compound, amount);
     }
 }

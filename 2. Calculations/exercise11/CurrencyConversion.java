@@ -1,5 +1,3 @@
-package exercise11;
-
 import java.util.Scanner;
 
 public class CurrencyConversion {

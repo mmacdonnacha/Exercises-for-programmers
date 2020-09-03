@@ -1,5 +1,3 @@
-package exercise06;
-
 import java.util.Scanner;
 import java.time.LocalDate;
 

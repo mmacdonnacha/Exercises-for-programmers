@@ -1,5 +1,3 @@
-package exercise07;
-
 import java.util.Scanner;
 
 public class AreaOfRectangle {

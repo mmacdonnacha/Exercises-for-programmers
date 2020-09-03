@@ -1,5 +1,3 @@
-package exercise09;
-
 import java.util.Scanner;
 
 public class PaintCalculator {

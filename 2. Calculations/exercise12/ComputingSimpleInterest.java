@@ -1,5 +1,3 @@
-package exercise12;
-
 import java.util.Scanner;
 
 public class ComputingSimpleInterest{
