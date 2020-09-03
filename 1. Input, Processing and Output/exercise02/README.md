@@ -1,4 +1,4 @@
-Counting the Number of Characters
+# Counting the Number of Characters
 
 Create a program that prompts for an input string and displaus
 output that shows the input string and the number of 

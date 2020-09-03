@@ -1,4 +1,4 @@
-Mad Lib
+# Mad Lib
 
 Mad Libs are simple game where you crate a story
 template with blanks for workds. You, or another player,

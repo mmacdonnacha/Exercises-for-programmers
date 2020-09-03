@@ -1,4 +1,4 @@
-Simple Math
+# Simple Math
 
 You'll often write programs that deal with numbers.
 And depending on the programming language you use, you'll
