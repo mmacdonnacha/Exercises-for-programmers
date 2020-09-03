@@ -1,5 +1,3 @@
-package exercise16;
-
 import java.util.Scanner;
 
 public class LegalDrivingAge {

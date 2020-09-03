@@ -1,5 +1,3 @@
-package exercise22;
-
 import java.util.Scanner;
 
 public class ComparingNumbers {

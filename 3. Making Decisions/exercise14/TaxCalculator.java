@@ -1,5 +1,3 @@
-package exercise14;
-
 import java.util.Scanner;
 
 public class TaxCalculator {

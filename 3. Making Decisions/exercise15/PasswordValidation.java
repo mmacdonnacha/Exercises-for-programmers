@@ -1,5 +1,3 @@
-package exercise15;
-
 import java.util.Scanner;
 
 public class PasswordValidation {

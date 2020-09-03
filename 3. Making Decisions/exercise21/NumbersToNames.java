@@ -1,5 +1,3 @@
-package exercise21;
-
 import java.util.Scanner;
 
 public class NumbersToNames {

@@ -1,5 +1,3 @@
-package exercise17;
-
 import java.util.Scanner;
 
 public class BloodAlcoholCalculator {

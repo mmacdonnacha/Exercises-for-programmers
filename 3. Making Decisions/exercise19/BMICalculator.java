@@ -1,5 +1,3 @@
-package exercise19;
-
 import java.util.Scanner;
 
 public class BMICalculator {

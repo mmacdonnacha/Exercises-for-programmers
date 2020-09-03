@@ -1,5 +1,3 @@
-package exercise20;
-
 import java.util.Scanner;
 
 public class MultistateSalesTaxCalculator {
