@@ -1,4 +1,4 @@
-#Self-Checkout
+# Self-Checkout
 
 Working with mulitple inputes and currency can introduce
 some tricky precision issues.
