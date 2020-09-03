@@ -25,7 +25,7 @@ EXAMPLE OUTPUT
 -What is the principal amount? 1500\
 -What is the rate of interest? 4.3\
 -What is the number of years? 6\
--What is the number of times the interest is compounded per year? 4\
+-What is the number of times the interest is compounded per year? 4
 
 -€1500 invested at 4.3% for 6 years compounded 4 times per year is €1938.84.
 
@@ -33,4 +33,4 @@ CONSTRAINTS
 -Prompt for the rate as a percentage (like 15 not .15)\
  Divide the input by 100 in your program.\
 -Ensure that fractions of a cent are rounded up to the next penny.\
--Ensure that the output is formatted as money.\
+-Ensure that the output is formatted as money.
