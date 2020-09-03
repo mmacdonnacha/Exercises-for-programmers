@@ -1,12 +1,12 @@
 # Mad Lib
 
 Mad Libs are simple game where you crate a story\
-template with blanks for workds. You, or another player,\
-then construct a list of words and place them into the story,\ 
+template with blanks for workds. You, or another player, \
+then construct a list of words and place them into the story, \
 creating an often silly or funny story as a result.
 
-Create a simple mad-lib program that prompts for a noun,\
-a verb, an adverb and an adjective and injects those into\ 
+Create a simple mad-lib program that prompts for a noun, \
+a verb, an adverb and an adjective and injects those into\
 a story that you create.
 
 <b>EXAMPLE OUTPUT</b>\
