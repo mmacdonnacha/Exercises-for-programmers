@@ -3,7 +3,7 @@
 Exercises for Programmers 
 57 Challenges to develop your coding skills
 
-Pragmatic Programmers
+[Pragmatic Programmers](https://pragprog.com/titles/bhwb/exercises-for-programmers/)
 
 **Input, Processing and Output** 
 - [Exercise 01 Saying Hello](1.%20Input,%20Processing%20and%20Output/exercise01)
@@ -44,3 +44,5 @@ Pragmatic Programmers
 - [Exercise 28 Adding Numbers](5.%20Repetition/exercise28)
 - [Exercise 29 Handling Bad Input](5.%20Repetition/exercise29)
 - [Exercise 30 Multiplication Table](5.%20Repetition/exercise30)
+- [Exercise 31 Karvonen Heart Rate](5.%20Repetition/exercise31)
+- [Exercise 32 Guess the Number Game](5.%20Repetition/exercise32)
