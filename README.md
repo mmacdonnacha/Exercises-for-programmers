@@ -41,6 +41,6 @@ Pragmatic Programmers
 - [Exercise 27 Validating Inputs](4.%20Functions/exercise27)
 
 **Repetition**
-- [Exercise 28 Adding Numbers]
-- [Exercise 29 Handling Bad Input]
-- [Exercise 30 Multiplication Table]
+- [Exercise 28 Adding Numbers](5.%20Repetition/exercise28)
+- [Exercise 29 Handling Bad Input](5.%20Repetition/exercise29)
+- [Exercise 30 Multiplication Table](5.%20Repetition/exercise30)
