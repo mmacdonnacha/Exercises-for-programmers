@@ -1,5 +1,3 @@
-package exercise24;
-
 import java.util.Scanner;
 import java.util.Arrays;
 
@@ -16,7 +14,7 @@ public class AnagramChecker {
 
         scanner.close();
 
-        if(isAnagramAlt(word1, word2)){
+        if(isAnagram(word1, word2)){
             System.out.println("\"" + word1 + "\" and \"" + word2 + "\" are anagrams.");
         }else{
             System.out.println("\"" + word1 + "\" and \"" + word2 + "\" are not anagrams.");
@@ -24,20 +22,6 @@ public class AnagramChecker {
     }
 
     public static boolean isAnagram(String firstWord, String secondWord){
-        if(firstWord.length() != secondWord.length()){
-            return false;
-        }
-
-        char[] firstArray  = firstWord.toCharArray();
-        char[] secondArray = secondWord.toCharArray();
-        Arrays.sort(firstArray);
-        Arrays.sort(secondArray);
-
-        
-        return Arrays.equals(firstArray, secondArray);
-    }
-
-    public static boolean isAnagramAlt(String firstWord, String secondWord){
         if(firstWord.length() != secondWord.length()){
             return false;
         }
@@ -57,5 +41,19 @@ public class AnagramChecker {
         }
 
         return false;
+    }
+
+    public static boolean isAnagramAlternative(String firstWord, String secondWord){
+        if(firstWord.length() != secondWord.length()){
+            return false;
+        }
+
+        char[] firstArray  = firstWord.toCharArray();
+        char[] secondArray = secondWord.toCharArray();
+        Arrays.sort(firstArray);
+        Arrays.sort(secondArray);
+
+        
+        return Arrays.equals(firstArray, secondArray);
     }
 }
