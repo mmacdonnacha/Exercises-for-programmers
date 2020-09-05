@@ -46,3 +46,9 @@ Exercises for Programmers
 - [Exercise 30 Multiplication Table](5.%20Repetition/exercise30)
 - [Exercise 31 Karvonen Heart Rate](5.%20Repetition/exercise31)
 - [Exercise 32 Guess the Number Game](5.%20Repetition/exercise32)
+
+**Data Structures**
+- [Exercise 33 Magic 8 Ball](6.%20Data%20Structures/exercise33)
+- [Exercise 34 Employee List Removal](6.%20Data%20Structures/exercise34)
+- [Exercise 35 Picking a Winner](6.%20Data%20Structures/exercise35)
+- [Exercise 36 Computing Statistics](6.%20Data%20Structures/exercise36)
