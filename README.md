@@ -52,3 +52,5 @@ Exercises for Programmers
 - [Exercise 34 Employee List Removal](6.%20Data%20Structures/exercise34)
 - [Exercise 35 Picking a Winner](6.%20Data%20Structures/exercise35)
 - [Exercise 36 Computing Statistics](6.%20Data%20Structures/exercise36)
+- [Exercise 37 Password Generator](6.%20Data%20Structures/exercise37)
+- [Exercise 38 Filterning Values](6.%20Data%20Structures/exercise38)
