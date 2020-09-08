@@ -53,4 +53,6 @@ Exercises for Programmers
 - [Exercise 35 Picking a Winner](6.%20Data%20Structures/exercise35)
 - [Exercise 36 Computing Statistics](6.%20Data%20Structures/exercise36)
 - [Exercise 37 Password Generator](6.%20Data%20Structures/exercise37)
-- [Exercise 38 Filterning Values](6.%20Data%20Structures/exercise38)
+- [Exercise 38 Filtering Values](6.%20Data%20Structures/exercise38)
+- [Exercise 39 Sorting Records](6.%20Data%20Structures/exercise39)
+- [Exercise 40 Filtering Records](6.%20Data%20Structures/exercise40)
