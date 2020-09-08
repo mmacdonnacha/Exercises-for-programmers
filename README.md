@@ -56,3 +56,7 @@ Exercises for Programmers
 - [Exercise 38 Filtering Values](6.%20Data%20Structures/exercise38)
 - [Exercise 39 Sorting Records](6.%20Data%20Structures/exercise39)
 - [Exercise 40 Filtering Records](6.%20Data%20Structures/exercise40)
+
+**Working with Files**
+- [Exercise 41 Name Sorter](7.%20Working%20with%20Files/exercise41)
+- [Exercise 42 Parsing a Data File](7.%20Working%20with%20Files/exercise42)
