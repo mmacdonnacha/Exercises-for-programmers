@@ -60,3 +60,4 @@ Exercises for Programmers
 **Working with Files**
 - [Exercise 41 Name Sorter](7.%20Working%20with%20Files/exercise41)
 - [Exercise 42 Parsing a Data File](7.%20Working%20with%20Files/exercise42)
+- [Exercise 43 Website Generator](7.%20Working%20with%20Files/exercise43)
