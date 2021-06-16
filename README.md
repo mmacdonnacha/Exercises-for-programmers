@@ -63,3 +63,4 @@ Exercises for Programmers
 - [Exercise 43 Website Generator](7.%20Working%20with%20Files/exercise43)
 - [Exercise 44 Product Search](7.%20Working%20with%20Files/exercise44)
 - [Exercise 45 Word Finder](7.%20Working%20with%20Files/exercise45)
+- [Exercise 46 Word Frequency Finder](7.%20Working%20with%20Files/exercise46)
