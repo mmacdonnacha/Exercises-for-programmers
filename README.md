@@ -8,7 +8,7 @@ Exercises for Programmers
 
 ## Input, Processing and Output  
 | Exercise | Name | |  | 
-| :---: | :---: | :---: | :---: |   
+| :---: | :---: | :---: | :---: |  
 | Exercise 01 | [Saying Hello](./1.%20Input,%20Processing%20and%20Output/exercise01/) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise01/java/SayingHello.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise01/python/saying_hello.py) |
 | Exercise 02 | [Counting the Number of Characters](./1.%20Input,%20Processing%20and%20Output/exercise02) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise02/java/CountingCharacters.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise02/python/counting_characters.py) |
 | Exercise 03 | [Printing Quotes](./1.%20Input,%20Processing%20and%20Output/exercise03) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise03/java/PrintingQuotes.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise03/python/printing_quotes.py) |
@@ -16,16 +16,18 @@ Exercises for Programmers
 | Exercise 05 | [Simple Math](./1.%20Input,%20Processing%20and%20Output/exercise05) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise05/java/SimpleMath.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise05/python/simple_math.py) |
 | Exercise 06 | [Retirement Calculator](./1.%20Input,%20Processing%20and%20Output/exercise06) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise06/java/RetirementCalculator.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise06/python/retirement_calulator.py) |
 
+---
 
-
-**Calculations**
-- [Exercise 07 Area of a Rectangle Room](2.%20Calculations/exercise07)
-- [Exercise 08 Pizza Party](2.%20Calculations/exercise08)
-- [Exercise 09 Paint Calculator](2.%20Calculations/exercise09)
-- [Exercise 10 Self-Checkout](2.%20Calculations/exercise10)
-- [Exercise 11 Currency Conversion](2.%20Calculations/exercise11)
-- [Exercise 12 Computing Simple Interest](2.%20Calculations/exercise12)
-- [Exercise 13 Determing Compound Interest](2.%20Calculations/exercise13)
+## Calculations
+| Exercise | Name | |  | 
+| :---: | :---: | :---: | :---: |   
+| Exercise 07 | [Area of a Rectangle Room](2.%20Calculations/exercise07) | [Java](./2.%20Calculations/exercise07/java/AreaOfRectangle.java) | [Python](./2.%20Calculations/exercise07/python/area_of_rectangle.py) |
+| Exercise 08 | [Pizza Party](2.%20Calculations/exercise08) | [Java](./2.%20Calculations/exercise08/java/PizzaParty.java) | [Python](./2.%20Calculations/exercise08/python/pizza_party.py) |
+| Exercise 09 | [Paint Calculator](2.%20Calculations/exercise09) | [Java](./2.%20Calculations/exercise09/java/PaintCalculator.java) | [Python](./2.%20Calculations/exercise09/python/paint_calculator.py) |
+| Exercise 10 | [Self-Checkout](2.%20Calculations/exercise10) | [Java](./2.%20Calculations/exercise10/java/SelfCheckout.java) | [Python](./2.%20Calculations/exercise10/python/self_checkout.py) |
+| Exercise 11 | [Currency Conversion](2.%20Calculations/exercise11) | [Java](./2.%20Calculations/exercise11/java/CurrencyConversion.java) | [Python](./2.%20Calculations/exercise11/python/currency_conversion.py) |
+| Exercise 12 | [Computing Simple Interest](2.%20Calculations/exercise12) | [Java](./2.%20Calculations/exercise12/java/ComputingSimpleInterest.java) | [Python](./2.%20Calculations/exercise12/python/computing_simple_interest.py) |
+| Exercise 13 | [Determing Compound Interest](2.%20Calculations/exercise13) | [Java](./2.%20Calculations/exercise13/java/DetermineCompoundInterest.java) | [Python](./2.%20Calculations/exercise13/python/determine_compund_interest.py) |
 
 **Making Decisions**
 - [Exercise 14 Tax Calculator](3.%20Making%20Decisions/exercise14)
