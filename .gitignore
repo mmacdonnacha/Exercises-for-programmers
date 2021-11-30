@@ -1,3 +1,9 @@
-*.class
 .vscode
+
+# Java
+*.class
 target/
+
+# Python
+env
+__pycache__
