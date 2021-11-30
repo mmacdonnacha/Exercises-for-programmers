@@ -5,13 +5,18 @@ Exercises for Programmers
 
 [Pragmatic Programmers](https://pragprog.com/titles/bhwb/exercises-for-programmers/)
 
-**Input, Processing and Output** 
-- [Exercise 01 Saying Hello](1.%20Input,%20Processing%20and%20Output/exercise01)
-- [Exercise 02 Counting the Number of Characters](1.%20Input,%20Processing%20and%20Output/exercise02)
-- [Exercise 03 Printing Quotes](1.%20Input,%20Processing%20and%20Output/exercise03)
-- [Exercise 04 Mad Lib](1.%20Input,%20Processing%20and%20Output/exercise04)
-- [Exercise 05 Simple Math](1.%20Input,%20Processing%20and%20Output/exercise05)
-- [Exercise 06 Retirement Calculator](1.%20Input,%20Processing%20and%20Output/exercise06)
+
+## Input, Processing and Output  
+| Exercise | Name | |  | 
+| :---: | :---: | :---: | :---: |   
+| Exercise 01 | [Saying Hello](./1.%20Input,%20Processing%20and%20Output/exercise01/) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise01/java/SayingHello.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise01/python/saying_hello.py) |
+| Exercise 02 | [Counting the Number of Characters](./1.%20Input,%20Processing%20and%20Output/exercise02) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise02/java/CountingCharacters.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise02/python/counting_characters.py) |
+| Exercise 03 | [Printing Quotes](./1.%20Input,%20Processing%20and%20Output/exercise03) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise03/java/PrintingQuotes.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise03/python/printing_quotes.py) |
+| Exercise 04 | [Mad Lib](./1.%20Input,%20Processing%20and%20Output/exercise04)  | [Java](./1.%20Input,%20Processing%20and%20Output/exercise04/java/MadLib.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise04/python/mad_lib.py) |
+| Exercise 05 | [Simple Math](./1.%20Input,%20Processing%20and%20Output/exercise05) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise05/java/SimpleMath.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise05/python/simple_math.py) |
+| Exercise 06 | [Retirement Calculator](./1.%20Input,%20Processing%20and%20Output/exercise06) | [Java](./1.%20Input,%20Processing%20and%20Output/exercise06/java/RetirementCalculator.java) | [Python](./1.%20Input,%20Processing%20and%20Output/exercise06/python/retirement_calulator.py) |
+
+
 
 **Calculations**
 - [Exercise 07 Area of a Rectangle Room](2.%20Calculations/exercise07)
@@ -62,5 +67,20 @@ Exercises for Programmers
 - [Exercise 42 Parsing a Data File](7.%20Working%20with%20Files/exercise42)
 - [Exercise 43 Website Generator](7.%20Working%20with%20Files/exercise43)
 - [Exercise 44 Product Search](7.%20Working%20with%20Files/exercise44)
-- [Exercise 45 Word Finder](7.%20Working%20with%20Files/exercise45)
-- [Exercise 46 Word Frequency Finder](7.%20Working%20with%20Files/exercise46)
+- [Exercise 45 Word Finder](7.%20Working%20with%20Files/exercise45)  
+- [Exercise 46 Word Frequency Finder](7.%20Working%20with%20Files/exercise46)  
+
+**Working with External Services**  
+- [Exercise 47 Who's in Space?](8.%20Working%20with%20External%20Services/exercise47)
+- Exercise 48 Grabbing the Weather
+- Exercise 49 Flickr Photo Search
+- Exercise 50 Movie Recommendations
+- Exercise 51 Pushing Notes to Firebase
+- Exercise 52 Creating Your Own Time Service
+  
+**Full Programs**
+- Exercise 53 Todo List
+- Exercise 54 URL Shortener
+- Exercise 55 Text Sharing
+- Exercise 56 Tracking Inventory
+- Exercise 57 Trivia App
